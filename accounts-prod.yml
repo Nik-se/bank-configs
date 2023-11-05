@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to 1023 Bank accounts related webhook APIs"
   contactDetails:
-    name: "Nikola markovic - Product Owner"
+    name: "Nikola markovic - SR Product Owner"
     email: "{cipher}b4089395a8e89cf08d46cd5eb093f812a02550773bbb764c23df5a2e2c1d397ad2865bcf05c76fdf5be3f8abeae2d7e0"
   onCallSupport:
     - (453) 392-4829
